@@ -1,0 +1,98 @@
+
+
+#navBar {
+    background: linear-gradient(white,white);
+    font-family: Montserrat;
+    color: rgba(35, 196, 182, 0.87);
+    height: 10vmin;
+    font-size: 2vmin;
+}
+
+#nav-items {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color:rgba(35, 196, 182, 0.87);
+    align-content: right;
+    
+}
+
+#dropdown-item{
+    color:black;
+    text-shadow: none;
+    background:none;
+    text-decoration: none;    
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-left: 28px;
+    
+}
+
+.nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(35, 196, 182, 0.87);
+    
+}
+
+#navbar-brand {
+    font-weight: 800;
+    font-size: 2em;;
+    margin-right: 30px;
+    margin-left: 30px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    
+}
+
+#sign-list {
+    list-style-type: none;
+}
+
+#bt-logout {
+    background-color: white;
+    color:black;
+    width: 50px;
+    height: 40px;
+    align-content: left;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    margin-left: 0px;
+    
+}
+
+#nav-link{
+    color:rgba(56, 61, 61, 0.87);
+    font-weight: 550;
+    text-decoration: none;    
+    border-radius: 50px;
+    background-size: 900px;
+    
+
+}
+
+.navbar-nav .nav-link {
+    color:rgba(56, 61, 61, 0.87);
+    margin-left: 800px;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 14px;
+    color:rgba(56, 61, 61, 0.87);
+    
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(56, 61, 61, 0.87);
+    font-weight: 550;
+    background-color:rgba(35, 196, 182, 0.87);
+    border-radius: 50px;
+    
+}
+
